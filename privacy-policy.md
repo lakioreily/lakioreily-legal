@@ -46,5 +46,3 @@ These Terms shall be governed by and defined following the laws of Serbia. lakio
 
 5. Contact Us
 For any legal inquiries or support requests, please contact: aladin.zukorlic@gmail.com.
-
-Sa ovim dokumentima, naša lista je kompletna i vaša aplikacija je arhitektonski, sigurnosno i pravno spremna za prelazak u komercijalne vode čim Apple Developer nalog bude aktivan!
